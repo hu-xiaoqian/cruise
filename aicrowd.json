@@ -1,0 +1,18 @@
+{ 
+    "challenge_id": "multi-turn-qa",
+    "gpu": true,
+    "hf_models": [
+        {
+            "repo_id": "meta-llama/Llama-3.2-11B-Vision-Instruct",
+            "revision": "main"
+        },
+        {
+            "repo_id": "sentence-transformers/all-MiniLM-L6-v2",
+            "revision": "main"   
+        },
+        {
+            "repo_id": "openai/clip-vit-large-patch14-336",
+            "revision": "main"
+        }
+    ]
+}

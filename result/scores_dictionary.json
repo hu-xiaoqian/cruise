@@ -1,0 +1,28 @@
+{
+  "all": {
+    "total": 24.0,
+    "correct_exact": 1.0,
+    "correct": 5.0,
+    "miss": 12.0,
+    "hallucination": 7.0,
+    "exact_match": 0.041666666666666664,
+    "accuracy": 0.20833333333333334,
+    "missing": 0.5,
+    "hallucination_rate": 0.2916666666666667,
+    "truthfulness_score": -0.08333333333333337,
+    "mean_multi_turn_conversation_score": -0.08333333333333333
+  },
+  "ego": {
+    "total": 24.0,
+    "correct_exact": 1.0,
+    "correct": 5.0,
+    "miss": 12.0,
+    "hallucination": 7.0,
+    "exact_match": 0.041666666666666664,
+    "accuracy": 0.20833333333333334,
+    "missing": 0.5,
+    "hallucination_rate": 0.2916666666666667,
+    "truthfulness_score": -0.08333333333333337,
+    "mean_multi_turn_conversation_score": -0.08333333333333333
+  }
+}
