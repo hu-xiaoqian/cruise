@@ -1,7 +1,7 @@
-from agents.enhanced_single_source_agent import EnhancedSingleSourceAgent
+from agents.single_source_agent import SingleSourceAgent
 
 
 
-UserAgent = EnhancedSingleSourceAgent
+UserAgent = SingleSourceAgent
 
 
